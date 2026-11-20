@@ -11,8 +11,8 @@ function Footer() {
     <footer className="footer">
       <div className="container footer__content">
         <div className="footer__brand">
-          <img src="/images/logo.png" alt="ArbibStore Logo" className="footer__logo-img" />
-          <span className="footer__logo">ArbibStore</span>
+          <img src="/images/logo.png" alt="Pcmagasin Logo" className="footer__logo-img" />
+          <span className="footer__logo">Pcmagasin</span>
         </div>
         <div className="footer__links">
           <Link to="/">{t('home')}</Link>
@@ -24,7 +24,7 @@ function Footer() {
           <LanguageSelector />
         </div>
         <div className="footer__copyright">
-          © {new Date().getFullYear()} ArbibStore. {t('allRightsReserved')}
+          © {new Date().getFullYear()} Pcmagasin. {t('allRightsReserved')}
         </div>
       </div>
     </footer>
