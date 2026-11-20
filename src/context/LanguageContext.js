@@ -14,7 +14,7 @@ const translations = {
     selectLanguage: 'Select Language',
     
     // Home page
-    welcome: 'Welcome to ArbibStore',
+    welcome: 'Welcome to Pcmagasin',
     heroSubtitle: 'Fast shipping, great quality, and unbeatable prices on products you love.',
     shopNow: 'Shop Now',
     popularProducts: 'Popular Products',
@@ -120,7 +120,7 @@ const translations = {
     selectLanguage: 'Sélectionner la langue',
     
     // Home page
-    welcome: 'Bienvenue chez ArbibStore',
+    welcome: 'Bienvenue chez Pcmagasin',
     heroSubtitle: 'Expédition rapide, qualité exceptionnelle et prix imbattables sur les produits que vous aimez.',
     shopNow: 'Acheter Maintenant',
     popularProducts: 'Produits Populaires',
